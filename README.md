@@ -1,5 +1,5 @@
 # Example app for CI Hexlet course
-
+![hexlet-app](https://github.com/ibanb/hexlet-ci-app/actions/workflows/node.js.yml/badge.svg)
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
